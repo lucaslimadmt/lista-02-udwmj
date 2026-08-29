@@ -20,11 +20,3 @@ Repositório contendo a resolução de exercícios práticos para fixação dos 
 
 * **HTML5**
 * **CSS3**
-
----
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/lucaslimadmt/NOME-DO-REPOSITORIO.git](https://github.com/lucaslimadmt/NOME-DO-REPOSITORIO.git)
