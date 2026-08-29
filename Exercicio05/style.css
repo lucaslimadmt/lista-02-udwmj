@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+
+.card-noticia {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    max-width: 420px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.card-noticia h2 {
+    margin-top: 0;
+    color: #06aa48;
+    font-size: 1.25rem;
+    line-height: 1.3;
+}
+
+.meta-info {
+    font-size: 0.8rem;
+    color: #757575;
+    display: block;
+    margin-bottom: 12px;
+}
+
+.card-noticia p {
+    color: #333333;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 0;
+}
